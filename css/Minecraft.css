@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+    background-image: url('../assets/Images/Minecrafter.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+}
+
+.Common{
+    height: 50px;
+    line-height: 50px;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+}
+
+.Link{
+    background-color: lightblue;
+    line-height: 25px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Paragraph{
+    line-height: 35px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer{
+    background-color: whitesmoke;
+    line-height: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.second{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+    color: rgb(48, 44, 44);
+}
+
+
